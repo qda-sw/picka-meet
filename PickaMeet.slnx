@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/PickaMeet.Application/PickaMeet.Application.csproj" />
+    <Project Path="src/PickaMeet.Domain/PickaMeet.Domain.csproj" />
+    <Project Path="src/PickaMeet.Infrastructure/PickaMeet.Infrastructure.csproj" />
+    <Project Path="src/PickaMeet.Web/PickaMeet.Web.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/PickaMeet.ComponentTests/PickaMeet.ComponentTests.csproj" />
+    <Project Path="tests/PickaMeet.E2ETests/PickaMeet.E2ETests.csproj" />
+    <Project Path="tests/PickaMeet.IntegrationTests/PickaMeet.IntegrationTests.csproj" />
+    <Project Path="tests/PickaMeet.UnitTests/PickaMeet.UnitTests.csproj" />
+  </Folder>
+</Solution>
