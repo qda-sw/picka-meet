@@ -1,0 +1,17 @@
+.git
+.gitignore
+.env
+.agents
+.claude
+.codex
+.gemini
+.omc
+.omx
+.vscode
+.vs
+compose.yml
+README.md
+
+**/bin
+**/obj
+tests
